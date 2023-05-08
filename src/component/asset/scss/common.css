@@ -1,0 +1,49 @@
+.formdiv{
+    /*  */
+    margin-left: 35px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+
+}
+.uilist{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.borderform{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.subjectform{
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+.desc{
+    align-items: center;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.list{
+    align-items: center;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.inputsub{
+    height: 30px;
+    width: 160px;
+}
+.addbtn{
+    height: 40px;
+    width: 100px;
+    margin-top: 10px;
+    background-color: blueviolet;
+    border: 0px;
+    border-radius: 18px;
+    color: white;
+    font-size: 15px;
+}
